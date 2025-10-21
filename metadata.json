@@ -1,0 +1,5 @@
+{
+  "name": "Art Gallery",
+  "description": "An anonymous art sharing platform where users can upload and view artwork without needing an account. Features a public feed, likes, and comments, all managed within the user's session.",
+  "requestFramePermissions": []
+}
